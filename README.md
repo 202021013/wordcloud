@@ -31,5 +31,5 @@
     - cgv.ipynb = cgv 데이터 텍스트 분석 후 워드클라우드로 시각화 진행 코드
     - mega.ipynb = megabox 데이터 텍스트 분석 후 워드클라우드로 시각화 진행 코드
 
-**Data**
+**데이터**
 - DART API cgv, mega 사업보고서
